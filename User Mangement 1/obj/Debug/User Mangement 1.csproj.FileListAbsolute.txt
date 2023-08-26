@@ -1,0 +1,11 @@
+D:\Project\User Mangement 1\User Mangement 1\bin\Debug\User Mangement 1.exe.config
+D:\Project\User Mangement 1\User Mangement 1\bin\Debug\User Mangement 1.exe
+D:\Project\User Mangement 1\User Mangement 1\bin\Debug\User Mangement 1.pdb
+D:\Project\User Mangement 1\User Mangement 1\obj\Debug\User Mangement 1.csproj.AssemblyReference.cache
+D:\Project\User Mangement 1\User Mangement 1\obj\Debug\User Mangement 1.csproj.SuggestedBindingRedirects.cache
+D:\Project\User Mangement 1\User Mangement 1\obj\Debug\User_Mangement_1.Form1.resources
+D:\Project\User Mangement 1\User Mangement 1\obj\Debug\User_Mangement_1.Properties.Resources.resources
+D:\Project\User Mangement 1\User Mangement 1\obj\Debug\User Mangement 1.csproj.GenerateResource.cache
+D:\Project\User Mangement 1\User Mangement 1\obj\Debug\User Mangement 1.csproj.CoreCompileInputs.cache
+D:\Project\User Mangement 1\User Mangement 1\obj\Debug\User Mangement 1.exe
+D:\Project\User Mangement 1\User Mangement 1\obj\Debug\User Mangement 1.pdb
